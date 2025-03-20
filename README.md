@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository 
 <br>
-Author - aadarsh purohit 
+Author - aadarsh purohit (purohit ji )
